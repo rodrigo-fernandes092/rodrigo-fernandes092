@@ -16,7 +16,6 @@ O meu objetivo é me desenvolver para ser um Cientista de Dados!
  - SQL
  - Pandas
  - Numpy
- - Power Bi 
  - Excel
  
 
