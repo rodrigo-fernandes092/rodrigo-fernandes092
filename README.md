@@ -4,7 +4,7 @@
 
  Formado em Engenharia de Produção e apaixonado por dados.
  
- Sou novo na área de tecnologia. E estou enriquecendo a minha base de conhecimento em análise de dados com uso do Python, SQL e técnicas de Visualização de Dados. 
+ Sou novo na área de tecnologia e estou enriquecendo a minha base de conhecimento em análise de dados com uso do Python, SQL e técnicas de Visualização de Dados. 
 
 O meu objetivo é me desenvolver para ser um Cientista de Dados!
 
@@ -17,7 +17,8 @@ O meu objetivo é me desenvolver para ser um Cientista de Dados!
  - Pandas
  - Numpy
  - Excel
- 
+ ----
+ Atualmente estou trabalhando no [TCC ](https://github.com/rodrigo-fernandes092/TCC_MLaaS_PIB_ANAC)
 
 
 <!--
