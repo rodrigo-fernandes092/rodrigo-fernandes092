@@ -18,9 +18,9 @@ O meu objetivo é me desenvolver para trabalhar com dados e gerar valor!
  - Numpy
  - Excel
  ----
- Atualmente estou trabalhando no [TCC ](https://github.com/rodrigo-fernandes092/TCC_MLaaS_PIB_ANAC)
+ Atualmente estou trabalhando no **[TCC ](https://github.com/rodrigo-fernandes092/TCC_MLaaS_PIB_ANAC)**
 
- Confiratambém os meus [Certificados](https://github.com/rodrigo-fernandes092/Certificados)
+ Confira também os meus **[Certificados](https://github.com/rodrigo-fernandes092/Certificados)**
 
 
 <!--
