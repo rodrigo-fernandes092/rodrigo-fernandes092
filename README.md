@@ -6,7 +6,7 @@
  
  Sou novo na área de tecnologia e estou enriquecendo a minha base de conhecimento em análise de dados com uso do Python, SQL e técnicas de Visualização de Dados. 
 
-O meu objetivo é me desenvolver para ser um Cientista de Dados!
+O meu objetivo é me desenvolver para trabalhar com dados e gerar valor!
 
  👨‍💻
  
@@ -19,6 +19,8 @@ O meu objetivo é me desenvolver para ser um Cientista de Dados!
  - Excel
  ----
  Atualmente estou trabalhando no [TCC ](https://github.com/rodrigo-fernandes092/TCC_MLaaS_PIB_ANAC)
+
+ Confiratambém os meus [Certificados](https://github.com/rodrigo-fernandes092/Certificados)
 
 
 <!--
