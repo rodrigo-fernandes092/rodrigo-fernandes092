@@ -18,7 +18,8 @@ O meu objetivo é me desenvolver para trabalhar com dados e gerar valor!
  - Numpy
  - Excel
  ----
-
+### Trilha de estudos 
+[Fundamentos de Estatística ](https://github.com/rodrigo-fernandes092/Learning/blob/main/Estudo_Fundamentos_de_Estat%C3%ADstica.ipynb)
 
  Confira os meus **[Certificados](https://github.com/rodrigo-fernandes092/Certificados)**
 
