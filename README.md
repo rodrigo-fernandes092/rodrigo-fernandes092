@@ -19,7 +19,8 @@ O meu objetivo é me desenvolver para trabalhar com dados e gerar valor!
  - Excel
  ----
 ### Trilha de estudos 
-[Fundamentos de Estatística ](https://github.com/rodrigo-fernandes092/Learning/blob/main/Estudo_Fundamentos_de_Estat%C3%ADstica.ipynb)
+- [Fundamentos de Estatística ](https://github.com/rodrigo-fernandes092/Learning/blob/main/Estudo_Fundamentos_de_Estat%C3%ADstica.ipynb)
+- [Formação Power BI Analyst DIO](https://github.com/rodrigo-fernandes092/Formacao_PowerBI/tree/main)
 
  Confira os meus **[Certificados](https://github.com/rodrigo-fernandes092/Certificados)**
 
